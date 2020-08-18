@@ -1,3 +1,3 @@
 # test
 my first repository
- there i snothing to see here
+ there is nothing to see here
